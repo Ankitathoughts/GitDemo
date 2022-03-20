@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33" started-at="2022-02-10T23:58:42 IST" finished-at="2022-02-10T23:58:42 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33" started-at="2022-02-10T23:58:42 IST" finished-at="2022-02-10T23:58:42 IST">
+      <class name="MavenGrpID.MavenProjArtifactID.API_Test">
+        <test-method status="PASS" signature="RestAPITest()[pri:0, instance:MavenGrpID.MavenProjArtifactID.API_Test@23d2a7e8]" name="RestAPITest" duration-ms="1" started-at="2022-02-10T23:58:42 IST" finished-at="2022-02-10T23:58:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITest -->
+      </class> <!-- MavenGrpID.MavenProjArtifactID.API_Test -->
+      <class name="MavenGrpID.MavenProjArtifactID.SeleniumTest">
+        <test-method status="PASS" signature="Browserui()[pri:0, instance:MavenGrpID.MavenProjArtifactID.SeleniumTest@436e852b]" name="Browserui" duration-ms="3" started-at="2022-02-10T23:58:42 IST" finished-at="2022-02-10T23:58:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserui -->
+        <test-method status="PASS" signature="WebElementUI()[pri:0, instance:MavenGrpID.MavenProjArtifactID.SeleniumTest@436e852b]" name="WebElementUI" duration-ms="0" started-at="2022-02-10T23:58:42 IST" finished-at="2022-02-10T23:58:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebElementUI -->
+      </class> <!-- MavenGrpID.MavenProjArtifactID.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
