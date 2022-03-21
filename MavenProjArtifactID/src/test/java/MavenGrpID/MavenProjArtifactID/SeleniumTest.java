@@ -10,6 +10,7 @@ public class SeleniumTest {
 	public void Browserui()
 	{
 		System.out.println("Browserui");
+		System.out.println("Webui");
 	}
 	
 	@Test

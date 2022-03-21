@@ -12,6 +12,8 @@ public class AppiumTest {
 		System.out.println("appiumTestmethod_1");
 		System.out.println("appiumTestmethod_2");
 		System.out.println("appiumTestmethod_3");
+		System.out.println("appiumTestmethod_4");
+		System.out.println("appiumTestmethod_5");
 		
 	}
 
