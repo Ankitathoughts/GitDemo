@@ -17,6 +17,8 @@ public class SeleniumTest {
 	public void WebElementUI()
 	{
 		System.out.println("WebElementUI");
+		System.out.println("WebElementsUI");
+		
 	}
 	
 	//Now run in cmd from the project directory as
